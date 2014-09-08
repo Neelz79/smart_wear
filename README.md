@@ -1,4 +1,4 @@
 media
 =====
 
-Logos and Artwork for Byte.nl
+Logos and Artwork for smart-wear.nl
